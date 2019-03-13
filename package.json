@@ -1,0 +1,19 @@
+{
+  "name": "travis-ci-testing",
+  "version": "1.0.0",
+  "description": "CI testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Success!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friskydingo/travis-ci-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/friskydingo/travis-ci-testing/issues"
+  },
+  "homepage": "https://github.com/friskydingo/travis-ci-testing#readme"
+}
