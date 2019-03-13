@@ -4,7 +4,7 @@
   "description": "CI testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Success!\""
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/friskydingo/travis-ci-testing/issues"
   },
-  "homepage": "https://github.com/friskydingo/travis-ci-testing#readme"
+  "homepage": "https://github.com/friskydingo/travis-ci-testing#readme",
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
 }
